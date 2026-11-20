@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://receitasfaceis.github.io/sitemap.xml
